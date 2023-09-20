@@ -1,5 +1,18 @@
 [
-  { "id": 1, "username": "utilisateur1" },
-  { "id": 2, "username": "utilisateur2" },
-  { "id": 3, "username": "utilisateur3" }
+  {
+    "id": 1,
+    "username": "utilisateur1"
+  },
+  {
+    "id": 2,
+    "username": "utilisateur2"
+  },
+  {
+    "id": 3,
+    "username": "utilisateur3"
+  },
+  {
+    "id": 4,
+    "username": "leisque"
+  }
 ]
